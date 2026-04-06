@@ -1,2 +1,3 @@
 # SSL_Fiorenzo_Leonardo
-Sintaxis y Semántica de los Lenguajes, Fiorenzo Leonardo - Comision: K2051 - LunesTurnoNoche
+
+## Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes
